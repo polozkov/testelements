@@ -1,0 +1,30 @@
+#id_main_svg {
+  /*width: 49.5vw;height: 35vw;
+  width: 99vw;height: 70vw;*/
+  width: 49.5vw;height: auto;
+  background-color:silver;
+}
+
+#id_textarea {
+  height: 32em;
+  width: 24em;
+}
+
+textarea {
+  font-size: 16pt;
+}
+
+#maket {
+  width: 100%; /* Ширина всей таблицы */
+  height: 95vh;
+}
+TD {
+  vertical-align: top; /* Вертикальное выравнивание в ячейках */
+}
+TD#leftcol {
+  background: lightgreen; /* Цвет фона левой колонки */
+}
+TD#rightcol {
+  background: rosybrown; /* Цвет фона правой колонки */
+}
+
